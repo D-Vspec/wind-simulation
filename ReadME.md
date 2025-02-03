@@ -39,3 +39,7 @@ JSON should contain:
 - Three.js
 - WebGL
 - OrbitControls
+
+## Sample Output
+![image](https://github.com/user-attachments/assets/c99ea9ce-c3b9-4a6f-9bc8-ef41a71fac33)
+
